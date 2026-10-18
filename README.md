@@ -102,7 +102,7 @@ Let's see what formatting and style issues exist:
 
 **Option A: Check with Docker**
 ```bash
-# Build the image first
+# Build the image first #change
 docker build -t cheese-app-api:local .
 
 # Check code quality
